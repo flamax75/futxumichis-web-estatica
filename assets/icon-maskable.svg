@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">FuchuMichis maskable</title>
+  <rect width="512" height="512" fill="#28312f"/>
+  <circle cx="372" cy="122" r="58" fill="#f3c15f"/>
+  <path d="M157 173 110 76 220 132Z" fill="#f28f7d"/>
+  <path d="M355 173 402 76 292 132Z" fill="#f28f7d"/>
+  <path d="M111 263c0-93 59-148 145-148s145 55 145 148c0 92-59 153-145 153s-145-61-145-153Z" fill="#bfe8d8"/>
+  <ellipse cx="256" cy="286" rx="107" ry="88" fill="#fbfaf6"/>
+  <circle cx="218" cy="265" r="15" fill="#28312f"/>
+  <circle cx="294" cy="265" r="15" fill="#28312f"/>
+  <path d="M244 301c0-8 6-14 12-14s12 6 12 14-6 14-12 14-12-6-12-14Z" fill="#f28f7d"/>
+  <path d="M198 331c22 22 94 22 116 0" fill="none" stroke="#28312f" stroke-width="16" stroke-linecap="round"/>
+  <path d="M155 370c40 44 162 52 219-11 29-32 34-73 11-98" fill="none" stroke="#f3c15f" stroke-width="34" stroke-linecap="round"/>
+  <text x="256" y="470" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="54" font-weight="900" fill="#ffffff">FM</text>
+</svg>

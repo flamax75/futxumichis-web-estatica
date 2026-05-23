@@ -1,0 +1,38 @@
+{
+  "name": "FuchuMichis",
+  "short_name": "FuchuMichis",
+  "description": "Colonias felinas de Fuenmayor, La Rioja.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbfaf6",
+  "theme_color": "#28312f",
+  "categories": ["community", "lifestyle"],
+  "icons": [
+    {
+      "src": "assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/logofuchumichis.jpg",
+      "sizes": "1599x1599",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
