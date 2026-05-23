@@ -1,4 +1,4 @@
-const CACHE_NAME = "fuchumichis-v5";
+const CACHE_NAME = "fuchumichis-v6";
 const APP_ASSETS = [
   "./",
   "./index.html",
